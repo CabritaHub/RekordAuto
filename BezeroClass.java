@@ -4,7 +4,6 @@ import java.util.Objects;
 
 public class BezeroClass {
 	
-	
 	String Nan, Izena, Abizena,  JaiotzeData,  Mugikor,  Mail,  PostaKode,  Herrialde,  Alta,  Autonomo;
 
 	
